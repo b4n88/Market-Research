@@ -9,4 +9,20 @@ Data analytics merupakan salah satu bentuk business intelligence. Artinya, data 
  Jenis-jenis data di bagi menjadi beberapa bagian untuk melihatnya bisa klik [di sini](https://github.com/b4n88/Data-Analytics-dan-Market-Research/blob/main/index/tess.jpg)
  
 <h3>3. Alur Kerja Data Analytucs</h3>
-dadad
+Pekerjaan data analyst adalah :
+
+1. Pengumpulan Data (Data Collection)
+2. Pembersihan Data (Data Cleaning)
+3. Eksplorasi Data (Data Exploration)
+4. Pemodelan Data (Data Modeling)
+5. Evaluasi Model (Model Evaluation)
+6. Komunikasi dan Visualisasi Hasil (Data Visualization & Communication)
+7. Implementasi dan Monitoring (Deployment & Monitoring)
+8. Pemeliharaan dan Pengulangan (Maintenance & Iteration)
+
+Kurang lebih ini lah pekerjaan yang harus di tempu sebagai analyst data di suatu perusahaan..
+
+
+
+
+
