@@ -13,3 +13,6 @@ Fitur Utama:
 - **Customer service calls**: Jumlah panggilan ke layanan pelanggan.
 - **Churn**: Apakah pelanggan berhenti berlangganan (True/False).
 
+Cek di sini :
+
+https://colab.research.google.com/drive/1mTumiFZablOePwReCDo3oijU9KMkepSD?usp=sharing
