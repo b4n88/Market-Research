@@ -42,6 +42,8 @@ Identifikasi di bagian mana waktu tunggu tertinggi dan pelayanan paling lambat.
 - Efisiensi Pelayanan:
   > Loket atau poli mana yang paling memiliki waktu tunggu lama
   
+  > Pelayanan paling lambat (karyawan / Konsumen)
+  
   > Identifikasi jam sibuk untuk menambah tenaga medis atau loket.
 
 - Optimisasi Sumber daya
