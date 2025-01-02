@@ -1,6 +1,6 @@
 <h1 align = 'center'> Analisis antrian</h1>
 
-Analisa ini bisa digunakan dalam konteks apapun, rumah sakit, Pelayanan telephon, bank dll.
+Analisa ini bisa digunakan dalam konteks apapun, rumah sakit, Pelayanan telephone, Bank dan lain lain.
 
 Data yang Dibutuhkan untuk Analisis Antrian :
   
@@ -21,5 +21,29 @@ Data yang Dibutuhkan untuk Analisis Antrian :
 | **Waktu_Tunggu**         | Lama waktu pasien menunggu sebelum dilayani (menit)          | Numeric      |
 | **Jumlah_Pasien_Harian** | Total pasien yang dilayani per hari                          | Numeric      |
 | **Feedback_Pasien**      | Kepuasan pasien (Sangat Puas, Puas, Biasa, Tidak Puas)        | Categorical  |
+
+# Analisis Antrian
+## Teori Antrian
+
+## Simulasi Antrian
+
+## Analisis Bottleneck (Titik Macet)
+
+
+# Insight yang Dibutuhkan
+- Efisiensi Pelayanan:
+  > Loket atau poli mana yang paling memiliki waktu tunggu lama
+  > Identifikasi jam sibuk untuk menambah tenaga medis atau loket.
+
+- Optimisasi Sumber daya
+- Pelayanan ala CS BCA kliling
+  Melakukan penawaran terhadap antrian yg tidak terlalu butuh CS atau yang bisa diselesaikan tanpa CS bisa dilakukan penawaran keliling.
+- Analisis Prioritas
+- Rekomendasi Strategis
+  > Sitem antrian digital
+  > Jadwal janji temu lebih efektif
+  > Dashboard daftar antrian (masukan antrian baru dan total antrian yang akan mengantri)
+- 
+
 
 
