@@ -41,6 +41,7 @@ Identifikasi di bagian mana waktu tunggu tertinggi dan pelayanan paling lambat.
 # Insight yang Dibutuhkan
 - Efisiensi Pelayanan:
   > Loket atau poli mana yang paling memiliki waktu tunggu lama
+  
   > Identifikasi jam sibuk untuk menambah tenaga medis atau loket.
 
 - Optimisasi Sumber daya
@@ -49,7 +50,9 @@ Identifikasi di bagian mana waktu tunggu tertinggi dan pelayanan paling lambat.
 - Analisis Prioritas
 - Rekomendasi Strategis
   > Sitem antrian digital
+  
   > Jadwal janji temu lebih efektif
+  
   > Dashboard daftar antrian (masukan antrian baru dan total antrian yang akan mengantri)
   
 
